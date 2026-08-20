@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "ChatGPT",
+    "price": 20,
+    "image": "/aa.jpg",
+    "description": "AI assistant for writing, coding, learning and everyday tasks.",
+    "button": "Add To Cart"
+  },
+  {
+    "id": 2,
+    "name": "Claude",
+    "price": 20,
+    "image":"/bb.jpg",
+    "description": "Powerful AI assistant for reasoning, writing and analysis.",
+    "button": "Add To Cart"
+  },
+  {
+    "id": 3,
+    "name": "Gemini",
+    "price": 19.99,
+    "image":"/cc.jpg",
+    "description": "Google's AI assistant for research, coding and creative work.",
+    "button": "Add To Cart"
+  },
+  {
+    "id": 4,
+    "name": "GitHub Copilot",
+    "price": 10,
+    "image": "/dd.jpg",
+    "description": "AI coding assistant that helps developers write code faster.",
+    "button": "Add To Cart"
+  },
+  {
+    "id": 5,
+    "name": "Midjourney",
+    "price": 10,
+    "image": "/ee.jpg",
+    "description": "AI image generation tool for creating creative visuals.",
+    "button": "Add To Cart"
+  },
+  {
+    "id": 6,
+    "name": "Perplexity",
+    "price": 20,
+    "image": "/f.jpg",
+    "description": "AI search engine for finding and understanding information.",
+    "button": "Add To Cart"
+  },
+  {
+    "id": 7,
+    "name": "Runway",
+    "price": 15,
+    "image": "/g.jpg",
+    "description": "AI-powered platform for creating and editing videos.",
+    "button": "Add To Cart"
+  },
+  {
+    "id": 8,
+    "name": "Copy.ai",
+    "price": 36,
+    "image": "/h.jpg",
+    "description": "AI writing platform for marketing and business content.",
+    "button": "Add To Cart"
+  },
+  {
+    "id": 9,
+    "name": "Jasper",
+    "price": 49,
+    "image": "/i.jpg",
+    "description": "AI content platform designed for marketing teams.",
+    "button": "Add To Cart"
+  },
+  {
+    "id": 10,
+    "name": "Leonardo AI",
+    "price": 12,
+    "image": "/j.jpg",
+    "description": "AI platform for generating high-quality images and designs.",
+    "button": "Add To Cart"
+  }
+]
